@@ -1,0 +1,8 @@
+{
+	"name": "Evisceratorul",
+	"version": "0.1.0",
+	"description": "Giving CoffeeScript a try",
+	"author": "Daniel Andrei Minca",
+	"devDependencies": {
+	}
+}
