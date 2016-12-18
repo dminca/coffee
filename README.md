@@ -1,0 +1,3 @@
+- `docker build --rm -t qa .`
+- `docker run --rm -ti -v '$PWD/app:/app" qa ash`
+- now start coding in Sublime
